@@ -13,3 +13,5 @@ En este proyecto vamos a instalar docker y docker-compose en una máquina CentOs
 
 ### Referencias:
 
+
+Hemos usado la [Pagina oficial de Docker](https://docs.docker.com/engine/install/centos/)
