@@ -18,6 +18,6 @@ Para realizar la instalación de Docker  seguimos los pasos de  la  [pagina ofic
 
 ![4.PNG](/capturas/4.PNG)
 
-** Hacemos algunas comprobaciones para ver que se ha instalado correctamente**
+**Hacemos algunas comprobaciones para ver que se ha instalado correctamente**
 
 ![6.PNG](/capturas/6.PNG)
