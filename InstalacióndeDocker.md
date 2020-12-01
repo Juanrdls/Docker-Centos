@@ -8,10 +8,16 @@ Para realizar la instalación de Docker  seguimos los pasos de  la  [pagina ofic
 
 **En segundo lugar instalamos los repositorios en los cuales se descargara**
 
-![3.png](/capturas/3.png)
+![3.PNG](/capturas/3.PNG)
+
 **Instalamos el motor de docker con el siguiente comando**
 
-![5.png](/capturas/5.png)
+![5.PNG](/capturas/5.PNG)
+
 **Por ultimo comprobamos que está instaldo correctamete comprobando la versión**
 
-![4.png](/capturas/4.png)
+![4.PNG](/capturas/4.PNG)
+
+** Hacemos algunas comprobaciones para ver que se ha instalado correctamente**
+
+![6.PNG](/capturas/6.PNG)
